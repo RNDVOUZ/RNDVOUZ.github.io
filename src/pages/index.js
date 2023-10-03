@@ -18,7 +18,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
+            Getting Started
           </Link>
         </div>
       </div>
@@ -31,10 +31,10 @@ export default function Home() {
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="RNDVOUZ is a Flutter-powered mobile application that revolutionizes the way people trade clothes. With a simple swipe interface, users can quickly browse through a curated selection of clothing items from others in their community. Swipe right to express interest, or swipe left to pass on items. When two users mutually like each other's clothing, a match is made, enabling them to connect and arrange a convenient swap.">
       <HomepageHeader />
       <main>
-        <HomepageFeatures />
+        {/* <HomepageFeatures /> */}
       </main>
     </Layout>
   );

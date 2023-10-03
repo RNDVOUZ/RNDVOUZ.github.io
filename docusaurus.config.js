@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'RNDVOUZ',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Helping sustainable clothing, one swipe at a time.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
