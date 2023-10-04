@@ -6,14 +6,19 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #2e8555;
+  --ifm-color-primary: #fff0d6;
   --ifm-color-primary-dark: #29784c;
   --ifm-color-primary-darker: #277148;
   --ifm-color-primary-darkest: #205d3b;
   --ifm-color-primary-light: #33925d;
   --ifm-color-primary-lighter: #359962;
   --ifm-color-primary-lightest: #3cad6e;
+  --ifm-color-secondary: #f0b27a;
+  --ifm-font-color-base: #2c2e24;
+  --ifm-font-color-base-inverse: #45453d;
   --ifm-code-font-size: 95%;
+  --ifm-button-background-color: #000000;
+  --ifm-background-surface-color: #797d62;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
@@ -27,4 +32,47 @@
   --ifm-color-primary-lighter: #32d8b4;
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+.mybutton { 
+  color: #45453d;
+}
+
+.typewriter {
+  overflow: hidden; /* Ensures the content is not revealed until the animation */
+  border-right: .1em solid #f0b27a; /* The typwriter cursor */
+  white-space: nowrap; /* Keeps the content on a single line */
+  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+  padding-right: 5px;
+  display: inline-block;
+  animation:
+    typing 10s steps(50, end),
+    blink-caret .1s step-end infinite;
+}
+
+.cursor {
+  font-size: 1.2em;
+  animation: blink-caret .75s step-end infinite;
+}
+
+/* The typing effect */
+@keyframes typing {
+  0% { width: 0 }
+  30% { width: 100% }
+  100% { width: 100% }
+}
+
+/* The typewriter cursor effect */
+@keyframes blink-caret {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+
+.type_container {
+  display: inline-block;
+  margin-bottom: 16px;
 }

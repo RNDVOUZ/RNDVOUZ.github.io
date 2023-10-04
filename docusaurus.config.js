@@ -8,7 +8,6 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'RNDVOUZ',
   tagline: 'Helping sustainable clothing, one swipe at a time.',
-  favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
   url: 'https://rndvouz.github.io',
@@ -63,14 +62,16 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      colorMode: {
+        disableSwitch: true,
+      },
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'RNDVOUZ',
-        logo: {
-          alt: 'RNDVOUZ Logo',
-          src: 'img/logo.svg',
-        },
+        //logo: {
+        //  alt: 'RNDVOUZ Logo',
+        //  src: 'img/logo.svg',
+        //},
         items: [
           {
             type: 'docSidebar',

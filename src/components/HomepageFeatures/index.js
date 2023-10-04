@@ -8,28 +8,27 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+       With a simple swipe interface, our app allows you to swap clothes with other
+       effortlessly, helping to create a sustainable and cost-effective way to refresh your wardrobe.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Join RNDVOUZ',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Join a vibrant community of style-conscious individuals looking to revamp their closets.
+        Discover new pieces to elevate your personal style.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Donate your clothes',
+    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Our app
       </>
     ),
   },
