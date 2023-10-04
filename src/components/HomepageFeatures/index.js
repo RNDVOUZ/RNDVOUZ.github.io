@@ -24,11 +24,12 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Donate your clothes',
+    title: 'Consign your clothes',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Our app
+        Easily consign your gently worn clothes with local thrift shops,
+        supporting both your wallet and the environment.
       </>
     ),
   },
