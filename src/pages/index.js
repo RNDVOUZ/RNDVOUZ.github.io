@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
@@ -46,9 +46,11 @@ function HomepageHeader() {
       clearInterval(clearId);
       setTimeout(callType, 800);
     }
-  }
+  } 
 
-  let typeId = setInterval(type, 70);
+  useEffect(() => {
+    let typeId = setInterval(type, 70);
+  }, []);
 
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
