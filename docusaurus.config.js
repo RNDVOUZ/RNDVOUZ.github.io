@@ -8,7 +8,6 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'RNDVOUZ',
   tagline: 'Helping sustainable clothing, one swipe at a time.',
-
   // Set the production url of your site here
   url: 'https://rndvouz.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
@@ -21,6 +20,7 @@ const config = {
   projectName: 'rndvouz.github.io', // Usually your repo name.
   deploymentBranch: 'gh-pages', // The branch of the docs repo to publish.
   trailingSlash: true,
+  favicon: '/img/image.png',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',

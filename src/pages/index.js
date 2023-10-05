@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import React, { useEffect, useState } from 'react';
 import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
@@ -7,50 +7,69 @@ import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 import styles from './index.module.css';
 
+const Typewriter = ({ text, speed }) => {
+  const [displayedText, setDisplayedText] = useState('');
+  const [showCaret, setShowCaret] = useState(0);
+  const [isClearing, setIsClearing] = useState(false);
+
+  useEffect(() => {
+    let currentIndex = 0;
+    let calledWait = false;
+    const delay = (milliseconds) => {
+      return new Promise((resolve) => {
+        setTimeout(resolve, milliseconds);
+      });
+    };
+    
+    async function waitToClear() {
+      await delay(5000);
+      setIsClearing(true);
+    }
+
+    async function typeText() {
+      if (isClearing) {
+        if (currentIndex < text.length) {
+          setDisplayedText((prevText) => prevText.slice(0, -1));
+          currentIndex++;
+        } else {
+          clearInterval(typingInterval);
+          await delay(1000);
+          setIsClearing(false);
+        }
+      } else if (currentIndex < text.length) {
+        setDisplayedText((prevText) => prevText + text[currentIndex]);
+        currentIndex++;
+      } else {
+        // Start clearing after typing is complete
+        clearInterval(typingInterval);
+        await delay(5000);
+        setIsClearing(true);
+      }
+    };
+    
+    const typingInterval = setInterval(typeText, speed);
+
+    // Blink the caret
+    const caretInterval = setInterval(() => {
+      setShowCaret((prevShowCaret) => 1 - prevShowCaret);
+    }, 280);
+    // Clear intervals when component unmounts
+    return () => {
+      clearInterval(typingInterval);
+      clearInterval(caretInterval);
+    };
+  }, [text, speed, isClearing]);
+  
+  return (
+    <span>
+      {displayedText}
+      {<span className="cursor" style={{opacity: showCaret}}>|</span>}
+    </span>
+  );
+};
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
-
-  let subtitle_length = 0;
-  
-  let clearId;
-
-  function type() {
-    let subtitle = siteConfig.tagline;
-    let subtitle_obj = document.getElementById("caption");
-    if(subtitle_length <= subtitle.length) {
-      subtitle_obj.innerHTML = subtitle.substring(0, subtitle_length);
-      subtitle_length++;
-    }
-    else {
-      clearInterval(typeId);
-      setTimeout(callClear, 5000);
-    }
-  }
-
-  function callClear() {
-    clearId = setInterval(clear, 50);
-  }
-
-  function callType() {
-    typeId = setInterval(type, 70);
-  }
-  function clear() {
-    let subtitle = siteConfig.tagline;
-    let subtitle_obj = document.getElementById("caption");
-    if(subtitle_length > 0) {
-      subtitle_length--;
-      subtitle_obj.innerHTML = subtitle.substring(0, subtitle_length);
-    }
-    else {
-      clearInterval(clearId);
-      setTimeout(callType, 800);
-    }
-  } 
-
-  useEffect(() => {
-    let typeId = setInterval(type, 70);
-  }, []);
 
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
@@ -58,8 +77,7 @@ function HomepageHeader() {
         <h1 className="hero__title main-title">{siteConfig.title}</h1>
         <div className="type_container">
           <p className="hero__subtitle sub-title">
-            <span id="caption"></span>
-            <span className="cursor">|</span>
+            <Typewriter text={siteConfig.tagline} speed={70} />  
           </p>
         </div>  
         <div className={styles.buttons}>

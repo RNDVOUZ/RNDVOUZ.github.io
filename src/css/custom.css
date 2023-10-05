@@ -49,7 +49,6 @@
 
 .cursor {
   font-size: 1.2em;
-  animation: blink-caret .75s step-end infinite;
 }
 
 /* The typing effect */
