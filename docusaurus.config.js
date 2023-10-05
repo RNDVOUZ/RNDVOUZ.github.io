@@ -19,7 +19,7 @@ const config = {
   organizationName: 'rndvouz', // Usually your GitHub org/user name.
   projectName: 'rndvouz.github.io', // Usually your repo name.
   deploymentBranch: 'gh-pages', // The branch of the docs repo to publish.
-  trailingSlash: true,
+  trailingSlash: false,
   favicon: '/img/image.png',
 
   onBrokenLinks: 'throw',
@@ -100,7 +100,7 @@ const config = {
           },
           {
             label: "About Us",
-            to: 'docs/about.md'
+            to: 'docs/about'
           }
         ],
         copyright: `Copyright © ${new Date().getFullYear()} RNDVOUZ`,
