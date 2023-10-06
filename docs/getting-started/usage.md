@@ -13,6 +13,7 @@ As with all mobile apps, you will be asked to sign in and/or register when you d
 
 ### Onboarding
 
+<img className="mockup" src="/img/mockup/user_type.png"/> 
 <img className="mockup" src="/img/mockup/setup_login.png"/> 
 <img className="mockup" width="180vw" src="/img/mockup/setup_profile.png"/> 
 <img className="mockup" width="180vw" src="/img/mockup/setup_swipe.png"/> 
