@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: null, 
     description: (
       <>
        With a simple swipe interface, our app allows you to swap clothes with other
@@ -15,7 +15,7 @@ const FeatureList = [
   },
   {
     title: 'Join RNDVOUZ',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: null,
     description: (
       <>
         Join a vibrant community of style-conscious individuals looking to revamp their closets.
@@ -25,7 +25,7 @@ const FeatureList = [
   },
   {
     title: 'Consign your clothes',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: null,
     description: (
       <>
         Easily consign your gently worn clothes with local thrift shops,
