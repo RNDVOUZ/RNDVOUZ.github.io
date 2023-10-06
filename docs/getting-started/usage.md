@@ -20,9 +20,10 @@ As with all mobile apps, you will be asked to sign in and/or register when you d
 <img className="mockup" width="180vw" src="/img/mockup/setup_style.png"/> 
 <img className="mockup" width="180vw" src="/img/mockup/setup_size.png"/> 
 <img className="mockup" width="180vw" src="/img/mockup/setup_done.png"/> 
-<p style={{margin: "2vh 0px 2vh 0px", clear: "both"}}>
+
+<div className="mockup-p">
 There will be an onboarding process that will ask you for your information when you register on our app.
-</p>
+</div>
 
 <div style={{clear: "both"}}> </div>
 
@@ -35,8 +36,8 @@ There will be an onboarding process that will ask you for your information when 
 <img className="mockup" width="180vw" src="/img/mockup/notif.png"/> 
 <img className="mockup" width="180vw" src="/img/mockup/profile.png"/> 
 
-<p style={{margin: "2vh 0px 2vh 0px", clear: "both"}}>
+<div className="mockup-p">
 Currently the mockup pages of the home screen has not been implemented, but we have implemented a bottom menu bar that will sit on the home screen.
-</p>
+</div>
 
 <div style={{clear: "both"}}> </div>
