@@ -47,10 +47,12 @@ There will be a similar onboarding process for businesses who wishes to register
 ### Home Screen
 
 <img className="mockup" width="180vw" src="/img/mockup/home.png"/> 
+<img className="mockup" width="180vw" src="/img/mockup/home_swipe.png"/> 
 <img className="mockup" width="180vw" src="/img/mockup/search.png"/> 
 <img className="mockup" width="180vw" src="/img/mockup/upload.png"/> 
 <img className="mockup" width="180vw" src="/img/mockup/notif.png"/> 
 <img className="mockup" width="180vw" src="/img/mockup/profile.png"/> 
+<img className="mockup" width="180vw" src="/img/mockup/settings.png"/> 
 
 <div className="mockup-p">
 Currently the mockup pages of the home screen has not been implemented, but we have implemented a bottom menu bar that will sit on the home screen.
