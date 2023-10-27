@@ -22,7 +22,7 @@ As with all mobile apps, you will be asked to sign in and/or register when you d
 <img className="mockup" width="180vw" src="/img/mockup/setup_done.png"/> 
 
 <div className="mockup-p">
-There will be an onboarding process that will ask you for your information when you register on our app.
+There will be an onboarding process that will ask you for your information when you register on our app. Additionally this onboarding process will allow you to get a glimpse of the swipe functionality that is an integral part of our app.
 </div>
 
 <div style={{clear: "both"}}> </div>
@@ -55,7 +55,7 @@ There will be a similar onboarding process for businesses who wishes to register
 <img className="mockup" width="180vw" src="/img/mockup/settings.png"/> 
 
 <div className="mockup-p">
-Currently the mockup pages of the home screen has not been implemented, but we have implemented a bottom menu bar that will sit on the home screen.
+Currently the mockup pages of the home screen is not fully implemented, but we have implemented a bottom menu bar and the home page.
 </div>
 
 <div style={{clear: "both"}}> </div>
