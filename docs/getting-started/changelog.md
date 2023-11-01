@@ -8,6 +8,11 @@ sidebar_position: 3
 
 All notable changes to this app will be documented below.
 
+## Phase 4: 2023-10-31
+### Added
+- Restructured the project's file structure to adhere to feature-first architecture
+- Implement "Profile" mockup
+
 ## Phase 3: 2023-10-26
 ---
 ### Added
