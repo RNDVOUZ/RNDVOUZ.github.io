@@ -8,6 +8,19 @@ sidebar_position: 3
 
 All notable changes to this app will be documented below.
 
+## Phase 5: 2023-10-31
+### Added
+- Usage of Firebase, Freezed
+- Email verification when signing up
+- message list/chat mockup
+- Item preview page mockup
+- Resume setup process on app quit
+- Upload of a profile pic
+### Removed
+- Sign up as business users (temporary)
+- changing username (might be temporary?)
+
+
 ## Phase 4: 2023-10-31
 ### Added
 - Restructured the project's file structure to adhere to feature-first architecture

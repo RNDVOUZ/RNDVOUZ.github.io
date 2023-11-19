@@ -10,7 +10,7 @@ sidebar_position: 2
 <p style={{margin: "2vh 0px 2vh 0px", clear: "both"}}>
 <img className="mockup" src="/img/mockup/login.png"/> 
 
-As with all mobile apps, you will be asked to sign in and/or register when you download the app.
+As with all mobile apps, you will be asked to sign in and/or register when you download the app. During the sign up process, an email verification step will be requested.
 </p>
 
 <div style={{clear: "both"}}> </div>
@@ -53,13 +53,15 @@ There will be a similar onboarding process for businesses who wishes to register
 <img className="mockup" width="180vw" src="/img/mockup/home.png"/> 
 <img className="mockup" width="180vw" src="/img/mockup/home_swipe.png"/> 
 <img className="mockup" width="180vw" src="/img/mockup/search.png"/> 
+<img className="mockup" width="180vw" src="/img/mockup/filtered_search.png"/> 
 <img className="mockup" width="180vw" src="/img/mockup/upload.png"/> 
-<img className="mockup" width="180vw" src="/img/mockup/notif.png"/> 
+<img className="mockup" width="180vw" src="/img/mockup/msg_list.png"/> 
+<img className="mockup" width="180vw" src="/img/mockup/msg_chat.png"/> 
 <img className="mockup" width="180vw" src="/img/mockup/profile.png"/> 
 <img className="mockup" width="180vw" src="/img/mockup/settings.png"/> 
 
 <div className="mockup-p">
-Currently the mockup pages of the home screen is not fully implemented, but we have implemented a bottom menu bar and the home page.
+Currently most of the pages for the home screen is implemented, except for the upload item page.
 </div>
 
 <div style={{clear: "both"}}> </div>
