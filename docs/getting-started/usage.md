@@ -61,7 +61,7 @@ There will be a similar onboarding process for businesses who wishes to register
 <img className="mockup" width="180vw" src="/img/mockup/settings.png"/> 
 
 <div className="mockup-p">
-Currently most of the pages for the home screen is implemented, except for the upload item page.
+Currently most of the pages for the home screen is implemented, although not all of the functionality of the pages have been implemented yet.
 </div>
 
 <div style={{clear: "both"}}> </div>

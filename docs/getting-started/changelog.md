@@ -16,6 +16,7 @@ All notable changes to this app will be documented below.
 - Item preview page mockup
 - Resume setup process on app quit
 - Upload of a profile pic
+- Upload item page mockup
 ### Removed
 - Sign up as business users (temporary)
 - changing username (might be temporary?)

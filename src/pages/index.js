@@ -11,7 +11,7 @@ const Typewriter = ({ text, speed }) => {
   const [displayedText, setDisplayedText] = useState('');
   const [showCaret, setShowCaret] = useState(0);
   const [isClearing, setIsClearing] = useState(false);
-
+  
   useEffect(() => {
     let currentIndex = 0;
     let calledWait = false;
@@ -37,7 +37,7 @@ const Typewriter = ({ text, speed }) => {
           setIsClearing(false);
         }
       } else if (currentIndex < text.length) {
-        setDisplayedText((prevText) => prevText + text[currentIndex]);
+        setDisplayedText(text.slice(0, currentIndex));
         currentIndex++;
       } else {
         // Start clearing after typing is complete
@@ -58,7 +58,7 @@ const Typewriter = ({ text, speed }) => {
       clearInterval(typingInterval);
       clearInterval(caretInterval);
     };
-  }, [text, speed, isClearing]);
+  }, [isClearing]);
   
   return (
     <span>
@@ -70,7 +70,6 @@ const Typewriter = ({ text, speed }) => {
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
-
   return (
     <header className={clsx('hero', styles.heroBanner)} style={{flex: "1"}}>
       <div className="container">
