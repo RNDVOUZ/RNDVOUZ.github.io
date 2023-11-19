@@ -37,7 +37,7 @@ const Typewriter = ({ text, speed }) => {
           setIsClearing(false);
         }
       } else if (currentIndex < text.length) {
-        setDisplayedText(text.slice(0, currentIndex));
+        setDisplayedText(text.slice(0, currentIndex+1));
         currentIndex++;
       } else {
         // Start clearing after typing is complete
