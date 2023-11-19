@@ -52,6 +52,7 @@ There will be a similar onboarding process for businesses who wishes to register
 
 <img className="mockup" width="180vw" src="/img/mockup/home.png"/> 
 <img className="mockup" width="180vw" src="/img/mockup/home_swipe.png"/> 
+<img className="mockup" width="180vw" src="/img/mockup/item_info.png"/> 
 <img className="mockup" width="180vw" src="/img/mockup/search.png"/> 
 <img className="mockup" width="180vw" src="/img/mockup/filtered_search.png"/> 
 <img className="mockup" width="180vw" src="/img/mockup/upload.png"/> 
