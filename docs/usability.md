@@ -9,10 +9,8 @@ sidebar_label: "RNDVOUZ Usability Evaluation Design"
 1. Users are able to able to seamlessly find/trade/sell clothes that they/others no longer want.
     1. Users is able to create/setup an account
     2. Users is able to upload a profile picture, select their sizes, etc. 
-    3. Users is able to upload an item to the website for sale/trade/negotiate
-    4. Users is able to swipe left and right on the browse page to choose what clothing they like/dislike
-    5. Users is able to search for an item they are looking for
-    6. Users is able to message other users to discuss trades/negotiation.
+    3. Users is able to upload what they are wearing currently to be put up for sale/trade/negotiate
+    4. Users is able to swipe left and right on the browse page to select items of interest.
 
 ## Scenario
 Imagine you are preparing for a themed costume party that's happening in a week. The party is gothic-themed. You realized you don't have any gothic-themed clothing at home, so you wants to find specific gothic clothing items without breaking the bank. You happen to have some old clothes you are willing to trade or sell to get what you need. You scour the web, but the only available options are thredUP, Depop, and Plato's Closet. None of which supports local trading. This is where our app **RNDVOUZ** comes into play. 
