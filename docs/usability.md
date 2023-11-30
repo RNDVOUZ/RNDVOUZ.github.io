@@ -7,8 +7,7 @@ sidebar_label: "RNDVOUZ Usability Evaluation Design"
 
 ## User Goals
 1. Users are able to able to seamlessly find/trade/sell clothes that they/others no longer want.
-    1. Users is able to create/setup an account
-    2. Users is able to upload a profile picture, select their sizes, etc. 
+    1. Users is able to create/setup an account (upload a profile picture, select their sizes, etc...)
     3. Users is able to upload what they are wearing currently to be put up for sale/trade/negotiate
     4. Users is able to swipe left and right on the browse page to select items of interest.
 
