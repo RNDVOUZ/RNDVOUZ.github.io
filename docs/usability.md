@@ -14,7 +14,7 @@ sidebar_label: "RNDVOUZ Usability Evaluation Design"
 ## Scenario 1
 Imagine you just cleaned out your closet and picked out a handful of clothes you don't want to keep. You would describe your normal, everyday style to be simple and casual, but lately you've been wanting to try out something different. Unfortunately, clothes cost money, and you're on a tight budget. Your friend suggests that you try this new app. You make an account, upload some of your old clothes to the app, and browse around to try to find something that you like. 
 
-#### Successful Behavior
+### Successful Behavior
 - Make an account and navigate the app without much issue
 - Feel like the account setup helps to personalize user experience in an interesting way
 - Find the app interesting/promising
@@ -23,7 +23,7 @@ Imagine you just cleaned out your closet and picked out a handful of clothes you
 ## Scenario 2
 Imagine you are preparing for a themed costume party that's happening in a week. The party is hippie-themed. You realized you don't have any hippie-like clothes at home, so you want to find specific hippie-esque clothing items without breaking the bank. You happen to have some old clothes you are willing to trade or sell to get what you need. You scour the web, but the only available options are thredUP, Depop, and Plato's Closet. None of which supports local trading. This is where our app **RNDVOUZ** comes into play. Find a good hippie-esque jacket. 
 
-#### Successful Behavior
+### Successful Behavior
 - Able to search for jackets using the search feature
 
 ## User Types
@@ -33,19 +33,40 @@ Imagine you are preparing for a themed costume party that's happening in a week.
 4. Neither: The average person. Doesn't heavily emphasize price nor environmental impact. 
 
 ## Recruitment
-(Description of how participants were recruited)
+Participants recruited for for the usability test were typically acquaintances of the developers. 
 
 ## Consent Form
-(Insert here)
+[Click here](https://drive.google.com/file/d/1R55Uu4LVsHBIqY4rZzd1Yqa4FQc6VfF5/view?usp=drive_link) to view the consent form.
 
 ## Anonymized Description of the Participants
+### Participant A:
+Female gradute student interested in clothes and fashion.
 
+### Participant B:
+Female gradute student interested in clothes and fashion.
 
 ## Time & Place
-The usability test took place....
+For participants A & B, the usability took place on December 6, 2023 at around 3:00 pm at the University of Hawaii at Manoa campus. 
 
 ## Script
+[Click here](https://drive.google.com/file/d/1pbJSOBFhFK9cp5BrA2yNKf1Y7b1ZvuZl/view?usp=drive_link) to view a general script used during the usability tests.
 
 ## Raw Data
+### Participant A
+Participant's A impressions of the app is positive. 
+
+> I've always thought about how I can minimize waste when I want to get rid of clothes but have't really considered trying to find one. But it's a really cool idea. I imagine it's something similar to Facebook Marketplace or some clothes flipping apps but more personalized and perhaps easier to find the right person to buy or sell clothes than some of the existing ones.
+
+
+> I would find this app to be very cool because I like to find unusual clothes and I think it would be nice to be able to try out outfits this way that I wouldn't feel guilty about buying. Because after I use it, I know that there is a community (people that frequently use the app) that are likely to buy it. I think this would be great for things like Halloween costumes (like the use case described), but also for fancy outfits like dresses (e.g. for prom dresses, or wedding attendee dresses, or clothes that don't fit me anymore😆).
+>
+> I've shopped on Etsy before (another online community where single-person/small homegrown businesses sell their items, usually crafts, artwork and clothes). This app reminded me of Etsy, but with a stronger fashion focus. Etsy is more geared towards artwork and custom designs.
+
+### Participant B
+Participant's A impressions of the app is positive. 
+
+> I thought it'd be cool!! I would try it out. I always try find solutions to my clothes I don't wear anymore.
+
+> It looks fun! It looks like there is an ability to chat with other people in the community - so it looks like a fun way to make new friends! It is easy to "like" an outfit and I like how it has different filters by style options. It is easy to explore the different style options - so it makes it easy to try out different fashions. I would use this app!
 
 ## Results
