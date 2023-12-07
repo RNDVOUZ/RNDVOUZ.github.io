@@ -155,9 +155,8 @@ Impressions:
 
 >I would definitely use it if it was fully functional : D
 
-## Results
+## Results: Top Usability Issues
 
 1. Users cannot sign up. Issues with sign up fields. (HIGH PRIORITY)
-2. Add a revert option when swiping through the swipe browsing mode so that users who misclick while swiping can still revert their changes.
-3. User account setup may take too long because it requires users to input their measurements and may deter/delay users from making an account. 
-4. For the set up process and for the app in general, it may be useful to have a tutorial section before they dive into using the app. There could be little instructions and descriptions about what is going on in the set up process and how to measure yourself.
+2. Users cannot view the things that they like/favorited. 
+3. For the set up process and for the app in general, it may be useful to have a tutorial section before they dive into using the app. There could be little instructions and descriptions about what is going on in the set up process and how to measure yourself. Additionally, user account setup may take too long because it requires users to input their measurements and may deter/delay users from making an account. 
