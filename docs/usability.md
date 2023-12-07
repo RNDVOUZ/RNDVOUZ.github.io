@@ -76,7 +76,7 @@ Participant's A impressions of the app is positive.
 ## Observations
 
 ### Participant A
-Participant A was using our device as an emulator to navigate through the app. While going through the set up process they had a lot of questions about what each set up section was about. 
+Participant A was using our device as an emulator to navigate through the app. While going through the set up process they had a lot of questions about what each set up section was about. The process for setting up their account took longer than expected because we needed provide a lot of explanation while walking them through the set up process. 
 
 ### Participant B
 Participant B was using our device as an emulator to navigate through the app. While they were using the browse swiping mode, they sometimes misclicked on their swipes and wished they could change what they swiped on because they didn't want to accidentally indicate that it is an item they are interested in. 
