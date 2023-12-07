@@ -157,6 +157,6 @@ Impressions:
 
 ## Results: Top Usability Issues
 
-1. Users cannot sign up. Issues with sign up fields. (HIGH PRIORITY)
-2. Users cannot view the things that they like/favorited. 
-3. For the set up process and for the app in general, it may be useful to have a tutorial section before they dive into using the app. There could be little instructions and descriptions about what is going on in the set up process and how to measure yourself. Additionally, user account setup may take too long because it requires users to input their measurements and may deter/delay users from making an account. 
+1. Users cannot sign up. [Issues with sign up fields. (HIGH PRIORITY)](https://github.com/orgs/rndvouz/projects/1/views/11?pane=issue&itemId=46863423)
+2. Users cannot [view the things that they like/favorited](https://github.com/orgs/rndvouz/projects/1/views/11?pane=issue&itemId=46864816). 
+3. For the set up process and for the app in general, it may be useful to have a [tutorial section](https://github.com/orgs/rndvouz/projects/1/views/11?pane=issue&itemId=46854883) before they dive into using the app. There could be little instructions and descriptions about what is going on in the set up process and how to measure yourself. Additionally, user account setup may take too long because it requires users to input their measurements and may deter/delay users from making an account. 
