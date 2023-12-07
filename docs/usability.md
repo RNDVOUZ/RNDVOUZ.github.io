@@ -43,10 +43,10 @@ Recruitment plans for future usabilty tests include reaching out to others on ca
 To view the signed consent forms, contact the developers. 
 
 ## Anonymized Description of the Participants
-### Participant A:
+### Participant A
 Female gradute student interested in clothes and fashion.
 
-### Participant B:
+### Participant B
 Female gradute student interested in clothes and fashion. She identifies as user type 4, Neither.
 
 ### Participant C 
