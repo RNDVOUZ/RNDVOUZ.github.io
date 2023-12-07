@@ -54,7 +54,7 @@ Female gradute student interested in clothes and fashion. She identifies as user
 > So, if I were to buy or trade clothes on your app, I would probably choose unique-looking, vintage items (like vintage denim that will probably last me a while) or dress outfits (if I need something for an event that I will probably not wear often, and don't want to pay full price)
 
 ## Time & Place
-For participants A & B, the usability took place on December 6, 2023 at around 3:00 pm at the University of Hawaii at Manoa campus. 
+For participants A & B, the usability took place on December 5, 2023 at around 3:00 pm at the University of Hawaii at Manoa campus. 
 
 ## Script
 [Click here](https://drive.google.com/file/d/1pbJSOBFhFK9cp5BrA2yNKf1Y7b1ZvuZl/view?usp=drive_link) to view a general script used during the usability tests.
