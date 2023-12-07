@@ -69,4 +69,15 @@ Participant's A impressions of the app is positive.
 
 > It looks fun! It looks like there is an ability to chat with other people in the community - so it looks like a fun way to make new friends! It is easy to "like" an outfit and I like how it has different filters by style options. It is easy to explore the different style options - so it makes it easy to try out different fashions. I would use this app!
 
+## Observations
+
+### Participant A
+Participant A was using our device as an emulator to navigate through the app. While going through the set up process they had a lot of questions about what each set up section was about. 
+
+### Participant B
+Participant B was using our device as an emulator to navigate through the app. While they were using the browse swiping mode, they sometimes misclicked on their swipes and wished they could change what they swiped on because they didn't want to accidentally indicate that it is an item they are interested in. 
+
 ## Results
+
+1. For the set up process and for the app in general, it may be useful to have a tutorial section before they dive into using the app. There could be little instructions and descriptions about what is going on in the set up process and how to measure yourself.
+2. Add a revert option when swiping through the swipe browsing mode so that users who misclick while swiping can still revert their changes.
