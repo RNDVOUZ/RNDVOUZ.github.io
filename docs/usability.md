@@ -33,16 +33,18 @@ Imagine you are preparing for a themed costume party that's happening in a week.
 4. Neither: The average person. Doesn't heavily emphasize price nor environmental impact. 
 
 ## Recruitment
-Participants recruited for for the usability test were typically acquaintances of the developers. 
+Participants recruited for for this usability test were typically acquaintances of the developers. 
+
+Recruitment plans for future usabilty tests include reaching out to others on campus, thrift stores, community clothes swaps, and potentially online. 
 
 ## Consent Form
 [Click here](https://drive.google.com/file/d/1R55Uu4LVsHBIqY4rZzd1Yqa4FQc6VfF5/view?usp=drive_link) to view the consent form.
 
 ## Anonymized Description of the Participants
-### Participant A:
+#### Participant A:
 Female gradute student interested in clothes and fashion.
 
-### Participant B:
+#### Participant B:
 Female gradute student interested in clothes and fashion. She identifies as user type 4, Neither.
 
 > I think I am 4. Neither. I do prefer to buy things on sale - but if I see something that I really want that looks good quality, I will buy it at the regular price if I can afford it.
@@ -57,31 +59,23 @@ For participants A & B, the usability took place on December 6, 2023 at around 3
 
 ## Raw Data
 ### Participant A
-Participant's A impressions of the app is positive. 
+Participant A was using our device as an emulator to navigate through the app. While going through the set up process they had a lot of questions about what each set up section was about. The process for setting up their account took longer than expected because we needed provide a lot of explanation while walking them through the set up process. 
 
 > I've always thought about how I can minimize waste when I want to get rid of clothes but have't really considered trying to find one. But it's a really cool idea. I imagine it's something similar to Facebook Marketplace or some clothes flipping apps but more personalized and perhaps easier to find the right person to buy or sell clothes than some of the existing ones.
-
 
 > I would find this app to be very cool because I like to find unusual clothes and I think it would be nice to be able to try out outfits this way that I wouldn't feel guilty about buying. Because after I use it, I know that there is a community (people that frequently use the app) that are likely to buy it. I think this would be great for things like Halloween costumes (like the use case described), but also for fancy outfits like dresses (e.g. for prom dresses, or wedding attendee dresses, or clothes that don't fit me anymore😆).
 >
 > I've shopped on Etsy before (another online community where single-person/small homegrown businesses sell their items, usually crafts, artwork and clothes). This app reminded me of Etsy, but with a stronger fashion focus. Etsy is more geared towards artwork and custom designs.
 
 ### Participant B
-Participant's B impressions of the app is positive. 
+Participant B was using our device as an emulator to navigate through the app. While they were using the browse swiping mode, they sometimes misclicked on their swipes and wished they could change what they swiped on because they didn't want to accidentally indicate that it is an item they are interested in. 
 
 > I thought it'd be cool!! I would try it out. I always try find solutions to my clothes I don't wear anymore.
 
 > It looks fun! It looks like there is an ability to chat with other people in the community - so it looks like a fun way to make new friends! It is easy to "like" an outfit and I like how it has different filters by style options. It is easy to explore the different style options - so it makes it easy to try out different fashions. I would use this app!
 
-## Observations
-
-### Participant A
-Participant A was using our device as an emulator to navigate through the app. While going through the set up process they had a lot of questions about what each set up section was about. The process for setting up their account took longer than expected because we needed provide a lot of explanation while walking them through the set up process. 
-
-### Participant B
-Participant B was using our device as an emulator to navigate through the app. While they were using the browse swiping mode, they sometimes misclicked on their swipes and wished they could change what they swiped on because they didn't want to accidentally indicate that it is an item they are interested in. 
-
 ## Results
 
 1. For the set up process and for the app in general, it may be useful to have a tutorial section before they dive into using the app. There could be little instructions and descriptions about what is going on in the set up process and how to measure yourself.
 2. Add a revert option when swiping through the swipe browsing mode so that users who misclick while swiping can still revert their changes.
+3. User account setup may take too long because it requires users to input their measurements and may deter/delay users from making an account. 
