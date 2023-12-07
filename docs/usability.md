@@ -40,14 +40,14 @@ Participants recruited for for the usability test were typically acquaintances o
 
 ## Anonymized Description of the Participants
 ### Participant A:
+Female gradute student interested in clothes and fashion.
+
+### Participant B:
 Female gradute student interested in clothes and fashion. She identifies as user type 4, Neither.
 
 > I think I am 4. Neither. I do prefer to buy things on sale - but if I see something that I really want that looks good quality, I will buy it at the regular price if I can afford it.
 > Generally I do not buy fast fashion. But it is not because I am environmentally focused. It is just because I like to wear my clothes many times before they are too worn out to wear anymore.
 > So, if I were to buy or trade clothes on your app, I would probably choose unique-looking, vintage items (like vintage denim that will probably last me a while) or dress outfits (if I need something for an event that I will probably not wear often, and don't want to pay full price)
-
-### Participant B:
-Female gradute student interested in clothes and fashion.
 
 ## Time & Place
 For participants A & B, the usability took place on December 6, 2023 at around 3:00 pm at the University of Hawaii at Manoa campus. 
@@ -67,7 +67,7 @@ Participant's A impressions of the app is positive.
 > I've shopped on Etsy before (another online community where single-person/small homegrown businesses sell their items, usually crafts, artwork and clothes). This app reminded me of Etsy, but with a stronger fashion focus. Etsy is more geared towards artwork and custom designs.
 
 ### Participant B
-Participant's A impressions of the app is positive. 
+Participant's B impressions of the app is positive. 
 
 > I thought it'd be cool!! I would try it out. I always try find solutions to my clothes I don't wear anymore.
 
