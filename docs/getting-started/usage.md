@@ -19,6 +19,8 @@ As with all mobile apps, you will be asked to sign in and/or register when you d
 
 <img className="mockup" src="/img/mockup/user_type.png"/> 
 <img className="mockup" src="/img/mockup/setup_login.png"/> 
+<img className="mockup" src="/img/mockup/setup_verify.png"/> 
+<img className="mockup" src="/img/mockup/setup_verify_confirm.png"/> 
 <img className="mockup" width="180vw" src="/img/mockup/setup_profile.png"/> 
 <img className="mockup" width="180vw" src="/img/mockup/setup_swipe.png"/> 
 <img className="mockup" width="180vw" src="/img/mockup/setup_style.png"/> 
@@ -27,24 +29,12 @@ As with all mobile apps, you will be asked to sign in and/or register when you d
 
 <div className="mockup-p">
 There will be an onboarding process that will ask you for your information when you register on our app. Additionally this onboarding process will allow you to get a glimpse of the swipe functionality that is an integral part of our app.
+
+We plan on implementing another form of user, business users, which differ from individual users. 
 </div>
 
 <div style={{clear: "both"}}> </div>
 
-
-### Onboarding (Businesses)
-
-<img className="mockup" src="/img/mockup/user_type.png"/> 
-<img className="mockup" src="/img/mockup/setup_login_b.png"/> 
-<img className="mockup" width="180vw" src="/img/mockup/setup_profile_b.png"/> 
-<img className="mockup" width="180vw" src="/img/mockup/setup_style_b.png"/> 
-<img className="mockup" width="180vw" src="/img/mockup/setup_contact_b.png"/> 
-<img className="mockup" width="180vw" src="/img/mockup/setup_verify_b.png"/> 
-<img className="mockup" width="180vw" src="/img/mockup/setup_done_b.png"/> 
-
-<div className="mockup-p">
-There will be a similar onboarding process for businesses who wishes to register for an account on our app, additionally questions will be asked, such as contact information and a page to agree to our term and services. 
-</div>
 
 <div style={{clear: "both"}}> </div>
 
